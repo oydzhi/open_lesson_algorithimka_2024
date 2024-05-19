@@ -1,0 +1,84 @@
+h3:hover{
+    color: #9719e0;
+}
+
+header h3{
+    display: inline-block;
+    margin-top: 55px;
+    margin-left: 15px;
+    border: 10px red ;
+}
+
+header{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 10px red ;
+    background-color: white;
+}
+.menu{
+    position: fixed;
+    top: 100px;
+    border: 10px red ;
+}
+
+.ha {
+    position: absolute;
+    top: 110px;
+    left: 290px;
+}
+.ah{
+    position: absolute;
+    top: 150px;
+    left: 290px;
+}
+.qq{
+    position: absolute;
+    top: 200px;
+    left: 290px;
+}
+.qw{
+    position: absolute;
+    top: 200px;
+    left: 390px;
+}
+.qe{
+    position: absolute;
+    top: 200px;
+    left: 490px;
+}
+.lq{
+   position: absolute;
+    top: 270px;
+    left: 290px; 
+}
+.lw{
+   position: absolute;
+    top: 470px;
+    left: 290px; 
+}
+.le{
+   position: absolute;
+    top: 670px;
+    left: 290px; 
+}
+.lr{
+   position: absolute;
+    top: 870px;
+    left: 290px; 
+}
+.main_part{
+    border: 3px solid red;
+}
+.zz{
+    background-color: #9719e0;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
