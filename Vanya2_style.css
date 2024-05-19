@@ -1,0 +1,146 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}       
+
+.zagalovok{
+    //margin-left: 80px;
+  	width: 100vw;
+    height: 300px;
+}
+
+.kartina{
+    height: 50px;
+    width: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 4px solid blueviolet;
+}
+
+.menu{
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid violet;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.menu_1
+{
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid violet;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.menu_1:hover:after{
+    content:url("https://cdn-icons-png.flaticon.com/512/4723/4723512.png");
+    zoom: 4%;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+
+h3{
+    color: rgb(115, 0, 255);
+    text-align: center;
+}
+
+.skin{
+    color: rgba(0, 0, 182, 0.884);
+    background-color: rgb(250, 245, 255);
+    border-radius: 10px;
+}
+
+.skinimg{
+    width: 500px;
+    height: 200px;
+}
+
+.skindiv{
+    width: 900px;
+    float: left;
+}
+
+.nav{
+    color: blueviolet;
+    text-align: center;
+}
+
+.skins{
+    color: #007e94e1;
+    height: 150px;
+}
+
+.marsh{
+    width: 700px;
+}
+
+.s{
+    color: rgb(129, 58, 196);
+    text-align: center;
+}
+
+.bs{
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 900px;
+}
+
+aside{
+    height: 40px;
+    text-align: center;
+    color: blueviolet;
+    background-color: orange;
+}
+ 
+.podval{
+    background-color: #FFFF00;
+    border-top: 5px solid #B40097;
+}
+
+.acoin{
+    background-color: #67E300;
+    color: #E40045;
+}
+
+.ver{
+    padding: 5px;
+    border: 2px solid red;
+    color: black;
+    background-color: #67E300;
+    border-radius: 50px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nazad{
+   padding: 5px;
+    border: 2px solid red;
+    color: black;
+    background-color: #67E300;
+    border-radius: 50px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: center; 
+    margin-left: 20px;
+}
