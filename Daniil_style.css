@@ -1,0 +1,69 @@
+
+
+.sigma:hover {
+    opacity: 1;
+    width: 500px;
+    transition: all 0.5s linear;
+}
+ .sigma {
+    opacity: 0.5;
+    transition: all 0.2s linear;
+
+}
+.fds {
+     height: 50px;
+     width: 50px;
+     float: left;
+}
+.knopka {
+     text-decoration: none;
+     margin-left: 15px;
+     margin-top: 15px;
+     padding: 10px;
+     border: 2px solid black;
+     border-radius: 15px;
+     margin-bottom: 10px;
+     background-color: black;
+     color: white;
+}
+.knopka2 {
+     text-decoration: none;
+     margin-left: 15px;
+     margin-top: 15px;
+     padding: 10px;
+     border: 2px solid black;
+     border-radius: 15px;
+     margin-bottom: 10px;
+      background-color: black;
+     color: white;
+}
+nav {
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+     border-bottom: 4px solid black;
+}
+.knopka:hover::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    opacity: 1;
+}
+ header {
+     background-color: gray;
+ }
+ footer {
+     background-color: gray;
+ }
+ html {
+     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ 
+ .knopka2:hover::before {
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    opacity: 1;
+ }
