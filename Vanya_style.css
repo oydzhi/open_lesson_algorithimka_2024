@@ -1,0 +1,135 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}       
+
+.zagalovok{
+    //margin-left: 80px;
+  	width: 100vw;
+    height: 300px;
+}
+
+.kartina{
+    height: 50px;
+    width: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 4px solid blueviolet;
+}
+
+.menu{
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid violet;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.menu_1{
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid violet;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.menu_1:hover:after{
+    content:url("https://cdn-icons-png.flaticon.com/512/4723/4723512.png");
+    zoom: 4%;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+
+.text{
+    background-color: violet;
+}
+
+.sigma{
+    color: blue;
+}
+
+
+h3{
+    color: rgb(115, 0, 255);
+    text-align: center;
+}
+
+.turnir{
+    color: white;
+    transition: all 0.5s linear;
+   
+}
+
+.turnir:hover{
+    color:rgb(0, 213, 0);
+    background-color: #900035;
+    transition: all 0.5s linear;
+}
+
+.tabli{
+    background-color: rgb(61, 61, 61);
+    border-radius: 20px;
+
+}
+
+.acoin{
+    background-color: #67E300;
+    color: #E40045;
+}
+
+.podval{
+    background-color: #FFFF00;
+    border-top: 5px solid #B40097;
+}
+
+.ver{
+    padding: 5px;
+    border: 2px solid red;
+    color: black;
+    background-color: #67E300;
+    border-radius: 50px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.zag{
+    color: rgb(197, 150, 255);
+    text-align: center;
+}
+
+.textt{
+    width: 600px;
+    float: left;
+    color: rgb(110, 9, 204);
+}
+
+img{
+    width: 800px;
+    height: 450px;
+}
+
+aside{
+    height: 40px;
+    text-align: center;
+    color: blueviolet;
+    background-color: orange;
+}
+
