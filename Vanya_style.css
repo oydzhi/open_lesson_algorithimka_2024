@@ -74,12 +74,14 @@ h3{
 .turnir{
     color: white;
     transition: all 0.5s linear;
+    padding: 5px;
    
 }
 
 .turnir:hover{
     color:rgb(0, 213, 0);
     background-color: #900035;
+    padding: 5px;
     transition: all 0.5s linear;
 }
 
