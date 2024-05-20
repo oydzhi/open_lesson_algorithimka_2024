@@ -29,6 +29,7 @@ nav {
  flex-wrap: wrap;
  width: 70%;
  margin-left: 110px;
+ margin-bottom: 10px;
 }
 
   
@@ -80,6 +81,7 @@ main {
 a:hover {
   background-color: #009999;
   box-shadow: 7px 5px 7px gray;
+  transition: box-shadow 0.1s ease-out;
   transition: all 0.7s linear;
 }
 
