@@ -1,3 +1,7 @@
+html{
+    font-family: "Cera CY", Helvetica, Arial, sans-serif;
+}
+
 h3:hover{
     color: #9719e0;
 }
@@ -14,13 +18,11 @@ header{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    border: 10px red ;
     background-color: white;
 }
 .menu{
     position: fixed;
     top: 100px;
-    border: 10px red ;
 }
 
 .ha {
@@ -68,18 +70,103 @@ header{
     top: 870px;
     left: 290px; 
 }
-.main_part{
 
-
+p{
+    padding-top: 4px;
+    font-size: 30px;
 }
 .zz{
+    color: white;
     background-color: #9719e0;
     position: absolute;
-    top: 500px;
-    left: 500px;
+    top: 350px;
+    left: 290px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
     text-align: center;
 
+}
+.zx{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 350px;
+    left: 430px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zc{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 550px;
+    left: 290px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zv{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 550px;
+    left: 430px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zb{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 750px;
+    left: 290px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zn{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 750px;
+    left: 430px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zm{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 950px;
+    left: 290px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.zq{
+    color: white;
+    background-color: #9719e0;
+    position: absolute;
+    top: 950px;
+    left: 430px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
 }
