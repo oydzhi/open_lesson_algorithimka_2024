@@ -39,9 +39,11 @@ nav{
 .menu:hover{
     box-shadow: 5px 3px 7px gray;
     transition: box-shadow 0.1s ease-out;
-
 }
 
+.menu:focus{
+    box-shadow: 5px 3px 7px black;
+}
 .menu_1
 {
     text-decoration: none;
