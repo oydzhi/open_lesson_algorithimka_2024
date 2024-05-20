@@ -85,3 +85,7 @@ a:hover {
   transition: all 0.7s linear;
 }
 
+.a:focus{
+    box-shadow: 5px 3px 7px black;
+}
+
