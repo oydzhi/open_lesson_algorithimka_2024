@@ -1,0 +1,55 @@
+h3:hover{
+    color: #9719e0;
+}
+
+header h3{
+    display: inline-block;
+    margin-top: 55px;
+    margin-left: 15px;
+    border: 10px red ;
+}
+
+header{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 10px red ;
+    background-color: white;
+}
+.enter{
+    position: absolute;
+    top: 200px;
+}
+.p{
+    position: absolute;
+    top: 300px;
+}
+.op{
+    position: absolute;
+    top: 350px;
+    left: 10px;
+    border-radius: 5px;
+    border-color: rgb(15, 28, 44);
+    height: 40px;
+}
+.c{
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    cursor: pointer;
+    background-color: blueviolet;
+    border-radius: 12px;
+    color: white;
+    width: 170px;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+.c:hover{
+    background-color: rgb(252, 3, 252);
+}
+p{
+    position: absolute;
+    top: 500px;
+    cursor: pointer;
+}
