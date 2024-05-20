@@ -79,6 +79,7 @@ main {
 }
 a:hover {
   background-color: #009999;
+  box-shadow: 7px 5px 7px gray;
   transition: all 0.7s linear;
 }
 
