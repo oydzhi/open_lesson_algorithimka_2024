@@ -144,4 +144,9 @@ aside{
     color: blueviolet;
     background-color: orange;
 }
-
+.prokaimg{
+    isplay: block;
+    box-sizing: border-box;
+    height: 400px;
+    width: 764px;
+}
