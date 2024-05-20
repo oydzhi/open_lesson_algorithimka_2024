@@ -36,6 +36,11 @@ nav{
     margin-bottom: 10px;
 }
 
+.menu:hover{
+    box-shadow: 7px 5px 7px gray;
+    transition: all 0.2s ease-in;
+}
+
 .menu_1{
     text-decoration: none;
     margin-left: 15px;
